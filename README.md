@@ -25,15 +25,22 @@ We also deployed the model using **Flask Web Framework** so that users can inter
 ---
 
 ## 📂 Project Structure
+```text
 online-payment-fraud-detection-ml/
-├── app.py # Flask application
-├── paymets.pkl # Trained Machine Learning model 
-├── templates/ # HTML templates (home.html, predict.html, result.html)
-├── static/ # CSS file
-├── Online_Fraud_Detection.ipynb #  ML model training and evaluation
-├── Documentation
-└── README.md # Project overview and documentation
-
+│
+├── app.py                         # Flask application
+├── payments.pkl                   # Trained Machine Learning model
+├── templates/
+│   ├── home.html
+│   ├── predict.html
+│   └── result.html
+├── static/
+│   ├── main.css
+│   └── ONLINE3.png
+├── Online_Fraud_Detection.ipynb   # ML model training and evaluation
+├── requirements.txt               # Project dependencies
+└── README.md                      # Project overview and documentation
+```
 ---
 
 ## 📥 Dataset Information
@@ -91,8 +98,9 @@ http://127.0.0.1:5000
 ## 🌐 Deployment Link 
 
 The project is deployed and running live on Render. You can access the live app here:
+```
 👉 https://online-payment-fraud-detection-1-pshw.onrender.com
-
+```
 ---
 
 ## Conclusion
@@ -101,7 +109,9 @@ It covers model training, evaluation, and web deployment using Flask.
 
 ---
 
-📞 Contact
-For any queries, contact:
-Srithika Gajjala, 
-email : srithikareddy06@gmail.com
+## 📞 Contact
+
+For any queries, feel free to contact:
+
+**Srithika Gajjala**  
+📧 Email: srithikareddy06@gmail.com
