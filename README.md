@@ -50,7 +50,7 @@ We have **NOT uploaded the dataset file in this repository** because the dataset
 
 ### Dataset Source:
 
-- Kaggle: [Online Payment Fraud Detection Dataset](/kaggle/input/online-payments-fraud-detection-dataset)  
+- Kaggle: [Online Payment Fraud Detection Dataset](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset)  
 
 ---
 
